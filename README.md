@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Mobile Development.<br>📝 I regularly write articles on  <a href="https://enskoc.medium.com/">medium.</a> <br>📫 How to reach me enskoc97@gmail.com</p>
+<p align="left">🔭 I’m currently working on Mobile Development.<br>📝 I regularly write articles on  <a href="https://enskoc.medium.com/">medium.</a> <br>📫 How to reach me <a href = "mailto: enskoc97@gmail.com">enskoc97@gmail.com</a></p>
 
 ###
 
